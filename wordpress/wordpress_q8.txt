@@ -1,0 +1,1 @@
+ 1.Inside the file wp-content/plugins/testdome.php.

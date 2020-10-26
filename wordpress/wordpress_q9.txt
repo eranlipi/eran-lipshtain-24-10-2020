@@ -1,0 +1,2 @@
+1. The wp_add_inline_script function should be used to tell WordPress to load the JavaScript
+file inline

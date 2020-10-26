@@ -1,0 +1,2 @@
+1. The function add_action() is used to hook a function to an action
+2. All actions are executed as soon as the page is loaded

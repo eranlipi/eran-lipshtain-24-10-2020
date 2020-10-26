@@ -1,0 +1,2 @@
+ 2. Database table prefix.
+ 3. Database password.

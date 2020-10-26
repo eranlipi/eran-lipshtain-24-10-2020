@@ -1,0 +1,3 @@
+c. It loads a file name home-header.php
+
+d. If the requested file not found, it will attemp to locate header.php
